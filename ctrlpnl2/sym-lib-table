@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ctrlpnl2-rescue)(type Legacy)(uri ${KIPRJMOD}/ctrlpnl2-rescue.lib)(options "")(descr ""))
+)
